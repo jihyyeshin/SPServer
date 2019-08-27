@@ -5,13 +5,14 @@
 
 ## Introduction
 
-This is a repository for team - project done in **Head Start Silicon Valley 2019** program.
+A repository for team - project done in **Head Start Silicon Valley 2019** program.
 Our is to develop a service for amateur painters which can help them with coloring their sketch.
 If user inputs a sketch the system returns a 3 fully colored painting that has a similar feeling with Monet, Cezanne, Gogh.
 
 ## Getting Started
 
-This is a description for opening **back-end server**. The **android application** is available in [here](https://github.com/hsvc/AppSketch).
+A description for opening **back-end server**. 
+The **android application** is available in [here](https://github.com/hsvc/AppSketch).
 
 ### Prerequisites
 
